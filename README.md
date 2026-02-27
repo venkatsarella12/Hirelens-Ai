@@ -141,7 +141,7 @@ Never commit .env to version control.
 
 🚀 Installation
 Clone Repository
-git clone https://github.com/yourusername/hirelens-ai.git
+git clone https://github.com/yourusername/Hirelens-Ai.git
 Backend Setup
 cd backend
 npm install
